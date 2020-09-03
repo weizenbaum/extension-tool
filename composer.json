@@ -9,5 +9,9 @@
             "email": "monkey-island@gmx.li"
         }
     ],
-    "require": {}
+    "require": {
+        "filp/whoops": "^2.7",
+        "league/flysystem": "^1.1",
+        "nette/php-generator": "^3.4"
+    }
 }
