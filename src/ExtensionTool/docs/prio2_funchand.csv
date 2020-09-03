@@ -1,0 +1,14 @@
+book,function,desc,do not use note,error handling array
+funchand,call_user_func_array,Call a callback with an array of parameters
+funchand,call_user_func,Call the callback given by the first parameter
+funchand,create_function,Create an anonymous (lambda-style) function
+funchand,forward_static_call_array,Call a static method and pass the arguments as array
+funchand,forward_static_call,Call a static method
+funchand,func_get_arg,Return an item from the argument list
+funchand,func_get_args,Returns an array comprising a function's argument list
+funchand,func_num_args,Returns the number of arguments passed to the function
+funchand,function_exists,Return TRUE if the given function has been defined
+funchand,get_defined_functions,Returns an array of all defined functions
+funchand,register_shutdown_function,Register a function for execution on shutdown
+funchand,register_tick_function,Register a function for execution on each tick
+funchand,unregister_tick_function,De-register a function for execution on each tick

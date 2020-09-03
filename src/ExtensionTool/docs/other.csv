@@ -1,0 +1,3 @@
+extension,function,desc,do not use note,error handling array
+string,setlocale,perhaps one can use intl Extension Locale class or Symfony intl Webshim,,
+classobj,all functions for class/object handling,-,use Reflection classes,
