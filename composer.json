@@ -2,11 +2,11 @@
     "name": "weizenbaum/extension-tool",
     "description": "tools for PHP Extensions e.g. code generation",
     "type": "library",
-    "license": "GNU GPL v3",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Ingmar Pforr",
-            "email": "ipforr@gmx.de"
+            "email": "monkey-island@gmx.li"
         }
     ],
     "require": {}
