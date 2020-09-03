@@ -1,5 +1,6 @@
 {
     "name": "weizenbaum/extension-tool",
+    "version": "1.0.0" ,
     "description": "tools for PHP Extensions e.g. code generation",
     "type": "library",
     "license": "GPL-3.0-only",
